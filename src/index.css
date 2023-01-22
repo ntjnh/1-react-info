@@ -25,6 +25,7 @@ body {
 .site-title {
     color: #61dafb;
     font-size: 22.25px;
+    letter-spacing: -0.05em;
     margin-right: auto;
 }
 
@@ -43,6 +44,7 @@ body {
 
 .main__heading {
     font-size: 39px;
+    letter-spacing: -0.05em;
     margin: 0 0 40px;
 }
 
