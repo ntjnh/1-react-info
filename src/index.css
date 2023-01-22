@@ -8,6 +8,7 @@ body {
     padding: 0;
 }
 
+/* Navbar component */
 .navbar {
     background-color: #21222a;
     display: flex;
@@ -31,4 +32,21 @@ body {
     color: #deebf8;
     font-size: 16px;
     font-weight: 600;
+}
+
+/* Main component */
+.main {
+    background-color: #282d35;
+    color: #fff;
+    padding: 56px 28px;
+}
+
+.main__heading {
+    font-size: 39px;
+    margin: 0 0 40px;
+}
+
+.main__facts > li {
+    font-size: 16px;
+    margin-bottom: 20.36px;
 }
