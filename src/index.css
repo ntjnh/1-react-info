@@ -37,7 +37,7 @@ body {
 
 /* Main component */
 .main {
-    background: #282d35 url('./react-icon-large.png') no-repeat center right;
+    background: #282d35 url('./react-icon-large.png') no-repeat right 65%;
     color: #fff;
     min-height: 460px;
     padding: 56px 28px;
