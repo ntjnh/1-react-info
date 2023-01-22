@@ -7,3 +7,28 @@ body {
     margin: 0;
     padding: 0;
 }
+
+.navbar {
+    background-color: #21222a;
+    display: flex;
+    align-items: center;
+    padding: 16px 32px;
+}
+
+.logo {
+    height: auto;
+    margin-right: 8px;
+    width: 30px;
+}
+
+.site-title {
+    color: #61dafb;
+    font-size: 22.25px;
+    margin-right: auto;
+}
+
+.site-subtitle {
+    color: #deebf8;
+    font-size: 16px;
+    font-weight: 600;
+}
