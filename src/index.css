@@ -50,5 +50,11 @@ body {
 
 .main__facts > li {
     font-size: 16px;
-    margin-bottom: 20.36px;
+    line-height: 20.36px;
+    padding-block: 10px;
+}
+
+.main__facts > li::marker {
+    color: #61dafb;
+    font-size: 1.4rem;
 }
